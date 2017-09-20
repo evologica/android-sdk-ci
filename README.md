@@ -1,2 +1,2 @@
-# android-sdk-ci
-Docker image with Android SDK for CI
+# Android SDK 4 CI
+Docker image with Android SDK for Continuous Integration
